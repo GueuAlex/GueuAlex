@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning PHP, PYTHON, SQL, JAVASCRIPT and C 
 - 💞️ I’m looking to collaborate on a web or mobile development project
 - 📫 How to reach me email: klagueu@gmail.com
+- 📎 LinkedIn: http://linkedin.com/in/alex-gueu-6a7bba20b
+
 
 <!---
 GueuAlex/GueuAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
